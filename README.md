@@ -6,7 +6,11 @@ Smart Tag uses NFC Tags assigned to specific classes to ensure that students can
 Project Management : [Notion Page](https://www.notion.so/Teamspace-Home-fba74a5d54be44d49325709de4ed9b68)
 ## Demo Video 📹
 
- Click [here](https://drive.google.com/file/d/1HPKHIb4zaa8NgOTDNkesDOOLULR7-OA8/view?usp=drive_link). 
+
+https://github.com/user-attachments/assets/cc4e7e0a-220f-4b74-b75e-9a44713e6402
+
+
+ Or view here [here](https://drive.google.com/file/d/1HPKHIb4zaa8NgOTDNkesDOOLULR7-OA8/view?usp=drive_link). 
 
 ## Contributing Code :bowtie:
 
@@ -25,17 +29,6 @@ Inside the `root` directory, run the command,`yarn install` and then `npx expo s
 ### Rules
 1. Commit as much as possible.
 2. Make all of your commit messages descriptive enough using the rules [here](https://commit.style/). Visit [this](https://ohshitgit.com/) if you need help commiting from the terminal.
-
-## Application View 
-### Sign In
-![sign_in](images/sign_in.png)
-
-### NFC screen
-![nfc_screen](images/nfc_screen.png)
-
-### People screen
-![people_screen](images/people_screen.png)
-
 
 ## Impersonation Detection Algorithm
 ![impersonation_detection_algorithm](images/impersonation_detection_algorithm.png)
