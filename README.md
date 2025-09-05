@@ -4,10 +4,9 @@ Smart Tag is a simple and effective solution to the problem of class attendance.
 
 Smart Tag uses NFC Tags assigned to specific classes to ensure that students can sign up to classrooms on time and also contains an impersonation detection algorithm that prevents students from gaming the system.
 Project Management : [Notion Page](https://www.notion.so/Teamspace-Home-fba74a5d54be44d49325709de4ed9b68)
+## Demo Video 📹
 
-## Project Management:blush:
-
-We use [Notion](https://www.notion.so/Teamspace-Home-fba74a5d54be44d49325709de4ed9b68) for our project management. Search through the current sprint to find the particular feature that you can be working on. We use [GitHub](https://github.com/orgs/Capstone-Projections/projects/1/views/2) to track the specific tasks being worked on at the moment.
+ Click [here](https://drive.google.com/file/d/1HPKHIb4zaa8NgOTDNkesDOOLULR7-OA8/view?usp=drive_link). 
 
 ## Contributing Code :bowtie:
 
@@ -27,8 +26,16 @@ Inside the `root` directory, run the command,`yarn install` and then `npx expo s
 1. Commit as much as possible.
 2. Make all of your commit messages descriptive enough using the rules [here](https://commit.style/). Visit [this](https://ohshitgit.com/) if you need help commiting from the terminal.
 
-### Issues 🥵
+## Application View 
+### Sign In
+![sign_in](images/sign_in.png)
 
-All issues should be reported [here](https://www.notion.so/458d2b299eb2414c86b70ac77fa4fb2c?v=cf990cad1e2241c2ac7be53e2aa43834)
+### NFC screen
+![nfc_screen](images/nfc_screen.png)
 
-## Click [here](https://drive.google.com/file/d/1HPKHIb4zaa8NgOTDNkesDOOLULR7-OA8/view?usp=drive_link) to view the application working.
+### People screen
+![people_screen](images/people_screen.png)
+
+
+## Impersonation Detection Algorithm
+![impersonation_detection_algorithm](images/impersonation_detection_algorithm.png)
